@@ -1,6 +1,14 @@
 <div align="center">
 
-<!-- ================= HEADER ================= -->
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td>
+
+<br/>
+
+<!-- ===================================================== -->
+<!--                         HEADER                        -->
+<!-- ===================================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:0284C7&height=230&section=header&text=AFFAN%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Affan Ahmed Header"/>
 
@@ -32,122 +40,190 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<br/><br/>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="92%" bgcolor="#111827">
 <tr>
-<td width="65%">
+<td align="left">
 
-Hi! I'm **Affan Ahmed**, a **Computer Engineering graduate from Sir Syed University of Engineering & Technology (SSUET)**.
+### Hi, I'm Affan 👋
 
-I'm a Full-Stack Software Engineer focused on building **modern, scalable and user-focused web applications**.
+I'm **Affan Ahmed**, a **Computer Engineering graduate from Sir Syed University of Engineering & Technology (SSUET)**.
 
-I enjoy working across the frontend and backend, designing APIs, working with databases, and turning ideas into production-ready applications.
+I'm a **Full-Stack Software Engineer** focused on building modern, scalable and user-focused web applications.
 
-</td>
+I enjoy working across frontend and backend development, designing REST APIs, working with databases, implementing authentication and building production-ready applications.
 
-<td width="35%">
+<br/>
 
-```text
-💻 Full-Stack Development
-⚡ MERN Stack
-🚀 Next.js
-🔷 TypeScript
-⚙️ REST APIs
-🗄️ MongoDB
-🔧 Git & GitHub
-🌐 Web Applications
-```
+| | Focus |
+|---|---|
+| 💻 | Full-Stack Web Development |
+| ⚡ | MERN Stack |
+| 🚀 | Next.js |
+| 🔷 | TypeScript |
+| ⚙️ | REST APIs |
+| 🗄️ | MongoDB |
+| 🔧 | Git & GitHub |
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<!-- ===================================================== -->
+<!--                     WHAT I DO                         -->
+<!-- ===================================================== -->
 
 ## 🎯 What I Do
 
-<div align="center">
+<table width="92%" bgcolor="#111827">
+<tr>
 
-| 🚀 Full-Stack | ⚙️ Backend | 🎨 Frontend | 🗄️ Database |
-|:---:|:---:|:---:|:---:|
-| MERN Applications | Node.js & Express | React & Next.js | MongoDB |
-| Production Apps | REST APIs | Responsive UI | Firebase |
-| API Integration | Authentication | Tailwind CSS | Data Modeling |
+<td align="center" width="25%">
 
-</div>
+### 💻
+
+**Full-Stack**
+
+Modern web applications using MERN, Next.js and TypeScript.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+REST APIs, authentication, business logic and backend services.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**Frontend**
+
+Responsive interfaces with React, Next.js and Tailwind CSS.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+MongoDB, Firebase and structured data management.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=dark" alt="Languages"/>
 
+<br/>
+
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend Technologies"/>
+
+<br/>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and Database"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend Technologies"/>
 
-### 🔧 Tools
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Tools"/>
+### 🔧 Tools & Workflow
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Development Tools"/>
+
+<br/><br/>
 
 ---
 
-<!-- ================= PROJECT ================= -->
+<!-- ===================================================== -->
+<!--                   FEATURED PROJECT                     -->
+<!-- ===================================================== -->
 
 ## 🚀 Featured Project
 
-<div align="center">
+<table width="92%" bgcolor="#111827">
+<tr>
+<td align="left">
 
-### 🎧 Smart Headphone
-**Real-Time Language Translation + Fake Voice Detection**
+# 🎧 Smart Headphone
 
-</div>
+### Real-Time Language Translation + Fake Voice Detection
 
-A Final Year Project combining **embedded systems, speech processing and machine learning** to create a smart headphone capable of processing and translating speech in real time.
+My **Final Year Project**, combining embedded systems, speech processing and machine learning.
+
+The system is designed to provide **real-time language translation**, detect potentially fake/AI-generated voices and record audio using a Raspberry Pi based hardware platform.
+
+<br/>
 
 ### ✨ Key Features
 
-- 🌐 Real-time **English ↔ Urdu** language translation
-- 🎙️ Speech recognition and audio processing
-- 🛡️ Machine-learning based **fake voice detection**
+- 🌐 **English ↔ Urdu** real-time language translation
+- 🎙️ Speech recognition and processing
+- 🛡️ Machine-learning based fake voice detection
 - 🔴 Real-time audio recording
-- 🍓 Raspberry Pi 4 based implementation
-- 🎧 Custom microphone and audio hardware integration
-- 🔊 Audio playback through connected headphone/speaker
+- 🍓 Raspberry Pi 4 based system
+- 🎧 Custom microphone integration
+- 🔊 Real-time audio playback
+- 📡 Hardware and software integration
 
-### 🔩 Hardware
+<br/>
 
-<div align="center">
+### 🔩 Technologies
 
-<img src="https://img.shields.io/badge/Raspberry%20Pi%204-CC0000?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper%20%2F%20Vosk-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0284C7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Audio%20Processing-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Whisper%20%2F%20Vosk-0284C7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0369A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Audio%20Processing-0F172A?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<!-- ================= ENGINEERING ================= -->
+<!-- ===================================================== -->
+<!--                   ENGINEERING FOCUS                    -->
+<!-- ===================================================== -->
 
 ## 🧠 Engineering Focus
 
@@ -167,53 +243,79 @@ A Final Year Project combining **embedded systems, speech processing and machine
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                     -->
+<!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=affan-ahmed123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0284C7&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=affan-ahmed123&show_icons=true&hide_border=true&bg_color=111827&title_color=38BDF8&icon_color=0284C7&text_color=FFFFFF&rank_icon=github"
+alt="GitHub Stats"
+/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affan-ahmed123&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&hide=html,css" alt="Top Languages"/>
+<img
+width="41%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=affan-ahmed123&layout=compact&hide_border=true&bg_color=111827&title_color=38BDF8&text_color=FFFFFF&hide=html,css"
+alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=affan-ahmed123&hide_border=true&background=0D1117&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+<img
+width="90%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=affan-ahmed123&hide_border=true&background=111827&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF"
+alt="GitHub Streak"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ================= GITHUB TROPHIES ================= -->
+<!-- ===================================================== -->
+<!--                   GITHUB TROPHIES                      -->
+<!-- ===================================================== -->
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=affan-ahmed123&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=affan-ahmed123&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"
+alt="GitHub Trophies"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ================= CURRENTLY ================= -->
+<!-- ===================================================== -->
+<!--                 CURRENTLY WORKING ON                   -->
+<!-- ===================================================== -->
 
 ## 🔭 Currently Working On
 
-<div align="center">
-
-<table>
+<table width="92%" bgcolor="#111827">
 <tr>
+
 <td align="center" width="33%">
 
 ### 💻
 
-**Full-Stack Development**
+### Full-Stack Development
 
-Building modern web applications with MERN, Next.js and TypeScript.
+Building modern web applications using **MERN, Next.js and TypeScript**.
 
 </td>
 
@@ -221,9 +323,9 @@ Building modern web applications with MERN, Next.js and TypeScript.
 
 ### ⚙️
 
-**Backend Engineering**
+### Backend Engineering
 
-Developing REST APIs, authentication systems and scalable backend services.
+Working with **REST APIs, authentication, databases and scalable services**.
 
 </td>
 
@@ -231,19 +333,22 @@ Developing REST APIs, authentication systems and scalable backend services.
 
 ### 🚀
 
-**Career Growth**
+### Career Growth
 
-Looking for Software Engineering and Full-Stack opportunities.
+Looking for **Software Engineering, Full-Stack and Remote opportunities**.
 
 </td>
+
 </tr>
 </table>
 
-</div>
+<br/>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ===================================================== -->
+<!--                       CONNECT                         -->
+<!-- ===================================================== -->
 
 ## 🤝 Let's Connect
 
@@ -269,18 +374,30 @@ I'm open to **Software Engineering, Full-Stack Development, Backend Development,
 
 <sub>Designed & Maintained by <b>Affan Ahmed</b></sub>
 
-</div>
+<br/><br/>
 
-<!-- ================= FOOTER ================= -->
+<!-- ===================== FOOTER ====================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0F172A,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
 
+</div>
+
+</td>
+</tr>
+</table>
+
 <!--
-Theme:
-Background: #0D1117
-Dark:       #020617
-Navy:       #0F172A
-Blue:       #0284C7
-Accent:     #38BDF8
-Text:       #FFFFFF
+=========================================================
+COLOR PALETTE
+=========================================================
+
+Main Background : #0D1117
+Card Background : #111827
+Dark Navy       : #020617
+Primary Blue    : #0284C7
+Accent Cyan     : #38BDF8
+Main Text       : #FFFFFF
+Secondary Text  : #94A3B8
+
+=========================================================
 -->
